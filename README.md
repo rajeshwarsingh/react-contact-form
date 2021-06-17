@@ -2,16 +2,16 @@
 
 #### react-contact-form:
 
-An application used than show the dummy contact form, built with React, Ant design, JavaScript, and CSS.
+An application to show the dummy contact form, built with React, Ant design, JavaScript, and CSS.
 
-#### Technolog:
+#### Technology:
 
 Used React, javascript css and antd library, antd as it's focussess on a user experience. Easy to use, not complex and feels natural to use. It's good alternative of bootstrap as well. Its components is very usefull like forms comes with easy validation. I started developing by using the `create-react-app` boilerplate.
 
 
 ## Installation and Setup Instructions
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+Clone this repository. You will need `node` and `npm` installed globally on your machine.  
 
 Installation:
 
