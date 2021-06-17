@@ -33,7 +33,7 @@ To Visit App in local:
 
   - I am using source-map-explorer to inspect our javascript bundles and it is also the recommended tool for react. Below command for running the analyzer.
       -     npm run analyze.
-  - By looking at the analyzer output, I see that antd take a big place in our bundle. I have attached the screenshot of output befor and after refactor.
+  - By looking at the analyzer output, I see that antd take a big place in our bundle. I have attached the output of before and after refactorin screenshot folder.
       - Refactor the code example.
       -     import Col from 'antd/es/col
       -     instead - import {Row, Col } from 'antd'
