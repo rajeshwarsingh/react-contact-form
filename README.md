@@ -37,6 +37,4 @@ To Visit App in local:
       - Refactor the code example.
       -     import Col from 'antd/es/col
       -     instead - import {Row, Col } from 'antd'
-      - another thing is I used lazy and Suspense for renderng Form as it bit heavier than the rest of static content.  
-
-.
+      - another thing is I used lazy and Suspense for renderng Form as it bit heavier than the rest of static content.
