@@ -1,0 +1,71 @@
+body{
+  background-color: #22304f;
+}
+.App {
+  text-align: left;
+  background-color: #22304f;
+  padding:20px 0;
+}
+
+.top-heading h1{
+  font-size: 40px;
+    font-weight: 600;
+    color:#fff;
+    text-align:center;
+}
+.con-info{
+  margin-bottom:20px;
+}
+
+.con-info h2, .con-info p{
+  color:#fff;
+  font-size: 22px;
+  margin-bottom: 0px;
+}
+.con-info a, .con-info a:hover{
+  color:#de3c4b;
+  font-size:20px;
+}
+.con-form label{
+  color:#fff;
+  font-size: 16px;
+  font-weight: 400;
+}
+.con-form input{
+  width:100%;
+}
+.send-btn
+{
+  padding: 13px 30px !important;
+  height: auto !important;
+  /* color:#fff !important; */
+  /* background-color: #de3c4b; */
+  font-size:16px !important;
+  font-weight: 600 !important;
+}
+.btn-col
+{
+  text-align: end !important;
+}
+a
+{
+  color:#de3c4b !important;
+}
+.ant-checkbox-inner::after {
+  width: 13.714286px;
+  height: 23.142857px;
+}
+.ant-col{
+  padding-top:7px;
+}
+
+.response-pg{
+  height: 100vh;
+  text-align:center;
+  vertical-align: middle;
+  padding:20%;
+}
+.response-pg h1, .response-pg h2{
+  color:#fff;
+}
+
